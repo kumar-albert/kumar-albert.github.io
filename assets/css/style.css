@@ -120,6 +120,8 @@ a { color: var(--accent); text-decoration: none; }
 
 .icon-btn:hover { border-color: var(--accent); color: var(--accent); }
 
+.lang-btn { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.02em; }
+
 .nav-toggle { display: none; }
 
 /* ---------- Hero ---------- */
