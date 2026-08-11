@@ -171,7 +171,7 @@ function applyTheme(theme) {
 }
 
 const savedTheme = localStorage.getItem('theme');
-applyTheme(savedTheme || 'light');
+applyTheme(savedTheme || 'dark');
 
 themeToggle.addEventListener('click', () => {
   const current = root.getAttribute('data-theme');
