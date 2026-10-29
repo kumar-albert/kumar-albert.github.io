@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<!-- The site uses hash routing (/#/pacto-ai, /#/es); search engines ignore URL fragments, so only the root is listed. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pactocloudworks.com/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pactocloudworks.com/" />
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://pactocloudworks.com/es" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pactocloudworks.com/" />
-  </url>
-  <url>
-    <loc>https://pactocloudworks.com/es</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pactocloudworks.com/" />
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://pactocloudworks.com/es" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pactocloudworks.com/" />
-  </url>
-  <url>
-    <loc>https://pactocloudworks.com/pacto-ai</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pactocloudworks.com/pacto-ai" />
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://pactocloudworks.com/es/pacto-ai" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pactocloudworks.com/pacto-ai" />
-  </url>
-  <url>
-    <loc>https://pactocloudworks.com/es/pacto-ai</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pactocloudworks.com/pacto-ai" />
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://pactocloudworks.com/es/pacto-ai" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pactocloudworks.com/pacto-ai" />
   </url>
 </urlset>
